@@ -1,2 +1,3 @@
-# Kakao Clone 2023 Update
-have fun!
+# kakao clone coding update
+
+im look forword to go japan~
